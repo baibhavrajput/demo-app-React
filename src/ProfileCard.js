@@ -3,7 +3,7 @@ function ProfileCard(props) {
   const handle = props.handle;
   const image = props.image;
   const description = props.description;
-
+  
   return (
     <div className="card">
       <div className="card-image">
